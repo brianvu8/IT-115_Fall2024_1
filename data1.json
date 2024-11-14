@@ -1,0 +1,15 @@
+{
+    "name": "OJ Simpon",
+    "age": 11,
+    "city": "New York",
+    "interests": [
+        "Traveling",
+        "Football",
+        "Golf,",
+        "Running",
+        "Videogames",
+        "History",
+        "silly"
+    ],
+    "is_student": false
+}
